@@ -4,7 +4,8 @@ A machine learning tool that classifies Arabic hotel reviews as positive or nega
 
 ## 🖥️ Live Demo
 
-Try it here: [Arabic Hotel Sentiment Analyzer](YOUR-RENDER-LINK)
+Try it here: [Arabic Hotel Sentiment Analyzer](https://arabic-hotel-sentiment-analyzer.onrender.com/
+)
 
 > Hosted on a free tier, so the first load after a period of inactivity may take about a minute.
 
@@ -56,7 +57,7 @@ Python, pandas, scikit-learn, Hugging Face Transformers (for the comparison), Gr
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/asmaaakbari/arabic-hotel-sentiment-analyzer.git
+git clone https://github.com/asmaaakbari/arabic-hotel-sentiment-analyzer
 cd arabic-hotel-sentiment-analyzer
 pip install -r requirements.txt
 python app.py
@@ -70,4 +71,4 @@ python app.py
 ## 👩‍💻 Author
 
 **Asmaa Alakbari**, Data Science Student
-[LinkedIn](https://www.linkedin.com/in/asmaa-alakbari)
+[LinkedIn](https://www.linkedin.com/in/asmaa-alakbari-061b34361/)
